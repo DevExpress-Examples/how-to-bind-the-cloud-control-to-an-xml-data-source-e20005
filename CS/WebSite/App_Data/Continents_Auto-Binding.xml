@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Continents>
+	<Continent Text="Asia" Value="3879000000" NavigateUrl="http://en.wikipedia.org/wiki/Asia" />
+	<Continent Text="Africa" Value="922011000" NavigateUrl="http://en.wikipedia.org/wiki/Africa" />
+	<Continent Text="North America" Value="528720588" NavigateUrl="http://en.wikipedia.org/wiki/North_America" />
+	<Continent Text="South America" Value="382000000" NavigateUrl="http://en.wikipedia.org/wiki/South_America" />
+	<Continent Text="Europe" Value="731000000" NavigateUrl="http://en.wikipedia.org/wiki/Europe" />
+	<Continent Text="Oceania" Value="32000000" NavigateUrl="http://en.wikipedia.org/wiki/Oceania" />
+</Continents>

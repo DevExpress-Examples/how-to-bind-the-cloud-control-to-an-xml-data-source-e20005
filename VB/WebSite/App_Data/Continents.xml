@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Continents>
+	<Continent Name="Asia" Population="3879000000" Url="http://en.wikipedia.org/wiki/Asia" />
+	<Continent Name="Africa" Population="922011000" Url="http://en.wikipedia.org/wiki/Africa" />
+	<Continent Name="North America" Population="528720588" Url="http://en.wikipedia.org/wiki/North_America" />
+	<Continent Name="South America" Population="382000000" Url="http://en.wikipedia.org/wiki/South_America" />
+	<Continent Name="Europe" Population="731000000" Url="http://en.wikipedia.org/wiki/Europe" />
+	<Continent Name="Oceania" Population="32000000" Url="http://en.wikipedia.org/wiki/Oceania" />
+</Continents>
